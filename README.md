@@ -91,36 +91,27 @@ The dataset contains **3,900 customer shopping transactions** across **18 column
 
 ```text
 Raw Customer Shopping Dataset
-            │
-            ▼
-    Data Understanding
-            │
-            ▼
+            ↓
+     Data Understanding
+            ↓
  Data Cleaning & Validation
-            │
-            ▼
+            ↓
     Data Transformation
-            │
-            ▼
+            ↓
       Cleaned Dataset
-            │
-            ▼
+            ↓
        MySQL Database
-            │
-            ▼
+            ↓
      SQL Business Analysis
-            │
-            ▼
+            ↓
      Power BI Data Model
-            │
-            ▼
+            ↓
       DAX KPI Measures
-            │
-            ▼
+            ↓
     Interactive Dashboard
-            │
-            ▼
+            ↓
       Business Insights
+```
 
 ---
 
@@ -163,3 +154,4 @@ Aspiring **Data Analyst | Business Analyst | Data Scientist**
 [https://github.com/Souri-Sarkar](https://github.com/Souri-Sarkar)
 
 ---
+
